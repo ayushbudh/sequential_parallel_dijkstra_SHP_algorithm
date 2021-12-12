@@ -4,18 +4,18 @@
 
 Windows
 
-• Download TDM-GCC : https://www.csc.tntech.edu/pdcincs/resources/modules/tools/updated/TDM-GCC-64.zip and unzip it
+• Download TDM-GCC : https://www.csc.tntech.edu/pdcincs/resources/modules/tools/updated/TDM-GCC-64.zip and unzip it <br>
 • Open a command prompt and run mingwvars.bat from the folder
 
 Mac OS
 
-• Install homebrew using /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-• Install gcc using /usr/local/bin/brew install gcc
-• Use g++-11 as the compile command
+• Install homebrew using /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"<br>
+• Install gcc using /usr/local/bin/brew install gcc <br>
+• Use g++-11 as the compile command <br>
 
 ## Commands
 
-<code>g++-11 -o Sequential_Dijkstra Sequential_Dijkstra.cpp -fopenmp</code>
+<code>g++-11 -o Sequential_Dijkstra Sequential_Dijkstra.cpp -fopenmp</code><br>
 <code>g++-11 -o Parallel_Dijkstra Parallel_Dijkstra.cpp -fopenmp</code>
 
 
