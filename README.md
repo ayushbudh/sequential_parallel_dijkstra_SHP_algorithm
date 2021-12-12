@@ -1,4 +1,4 @@
-# Sequential and Parallel Dijkstra Shortest Path Algorithm
+# Sequential and Parallel Dijkstra Shortest Path Algorithm (Using OpenMP)
 
 ## Installation
 
